@@ -1,0 +1,15 @@
+Index: src/com/raik/travel/Price.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/raik/travel/Price.java	(date 1538312628000)
++++ src/com/raik/travel/Price.java	(revision )
+@@ -10,7 +10,6 @@
+ public class Price {
+ 
+     private BigDecimal cost;
+-    private int long2;
+     private Currency currency;
+ 
+     public Price(BigDecimal cost) {
