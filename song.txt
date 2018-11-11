@@ -2,8 +2,11 @@
 2. Second string
 3. Third string
 4. Fourth string
+<<<<<<< HEAD
 ++++
 5. Fifth string
+=======
+>>>>>>> 0db8f3147704be14a3265e0a8f025d2572870a51
 6. Sixth string
 
 illegal push
