@@ -10,3 +10,6 @@
 6. Sixth string
 
 illegal push
+
+illegal	push2
+
